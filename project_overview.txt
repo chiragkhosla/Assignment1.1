@@ -1,0 +1,5 @@
+Project Overview:
+
+This project is a collaborative software development effort aimed at creating a new application for managing and tracking personal tasks. The application will provide users with a user-friendly interface to create, update, and delete tasks, set due dates, and categorize tasks based on priority and status. The goal of this project is to deliver a minimal viable product (MVP) that addresses the basic needs of personal task management, with the potential for future enhancements.
+
+The project will be developed using modern technologies, including Python for the backend logic and JavaScript for the frontend. We will be using Git for version control and GitHub for collaborative development. The repository will be organized with a main branch for stable releases and feature branches for new developments.
