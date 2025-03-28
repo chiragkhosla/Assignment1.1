@@ -2,3 +2,4 @@ Feature Details: Task Priority System
 
 Feature Overview: This new feature aims to introduce a Task Priority System to the application. By allowing users to assign priority levels (Low, Medium, High) to tasks, the feature will enhance task management and ensure that users can focus on the most urgent tasks. The feature will also provide visual aids to help users easily identify and manage tasks based on priority.
 file modified
+modify
